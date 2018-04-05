@@ -2346,7 +2346,7 @@ table.sizechart, table {
   border-color: #111 transparent transparent transparent;
   line-height: 0;
   _border-color: #111 #fff #fff #fff;
-  _filter: progid:DXImageTransform.Microsoft.Chroma(color='#111111);
+  _filter: progid:DXImageTransform.Microsoft.Chroma(color='#111111');
 }
 
 .pdp_3column {

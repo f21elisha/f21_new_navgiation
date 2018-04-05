@@ -3612,9 +3612,6 @@ iframe.no_line, .g-recaptcha iframe {
 /* iPhone 5 Code                  */
 /*================================*/
 @media (max-device-width:320px) {
-  body {
-    border:1px solid red;
-  }
   .l_container,.go_back {
     width: 266px;
   }

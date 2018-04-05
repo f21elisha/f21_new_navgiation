@@ -1503,7 +1503,8 @@ footer.main_fixed {
   color:#fff;
   letter-spacing: 2px;
   position: relative;
-  padding: 15px;
+  padding: 14px;
+  height: 50px;
 }
 .go_back.top_fixed {
   width: 320px !important;
@@ -2347,6 +2348,11 @@ table.sizechart, table {
   line-height: 0;
   _border-color: #111 #fff #fff #fff;
   _filter: progid:DXImageTransform.Microsoft.Chroma(color='#111111');
+}
+.m_left.arrow_down.active:after {
+  border-color: transparent transparent #111 transparent;
+  _border-color: #fff #fff #111 #fff;
+  border-width: 0 4px 5px 4px;
 }
 
 .pdp_3column {

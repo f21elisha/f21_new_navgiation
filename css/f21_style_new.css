@@ -4971,7 +4971,7 @@ iframe.no_line, .g-recaptcha iframe {
     box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.22);
   }
   .new_hover.hover_c {
-    top: 58px;
+    top: 50px;
     right: -11px;
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
@@ -5450,6 +5450,9 @@ iframe.no_line, .g-recaptcha iframe {
   }
   .m_menu_cover, button.slider_close {
     display: none;
+  }
+  .new_hover.hover_c {
+    top:58px;
   }
 }
 

@@ -1300,7 +1300,6 @@ span[class^="top_new"], span[class^="flag_"] {
   height: 28px;
   margin: 5px;
   background-size: auto !important;
-  float: left;
 }
 .nav_secondary .show_desktop, .d_search_container {
   display: none;

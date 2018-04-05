@@ -3608,7 +3608,23 @@ iframe.no_line, .g-recaptcha iframe {
   overflow-x: hidden;
   overflow-y: auto;
 }
-
+/* ============================== */
+/* iPhone 5 Code                  */
+/*================================*/
+@media (max-device-width:320px) {
+  body {
+    border:1px solid red;
+  }
+  .l_container,.go_back {
+    width: 266px;
+  }
+  .slider_close {
+    left:266px !important;
+  }
+  .hide_smobile {
+    display: none;
+  }
+}
 /* ============================== */
 /* Small Desktop Code             */
 /*================================*/

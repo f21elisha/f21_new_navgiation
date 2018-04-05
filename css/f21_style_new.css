@@ -5442,7 +5442,7 @@ iframe.no_line, .g-recaptcha iframe {
     width: 40px !important;
     height: 40px !important;
   }
-  .m_menu_cover {
+  .m_menu_cover, button.slider_close {
     display: none;
   }
 }

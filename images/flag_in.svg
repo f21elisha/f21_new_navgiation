@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+    </defs>
+    <g id="Artboard-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="india" transform="translate(4.000000, 5.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="9.5" cy="9.5" r="10.25"></circle>
+            </g>
+            <path d="M9.5,0 C5.73362109,0 2.47927734,2.19186523 0.942652344,5.36957812 L18.0573105,5.36957812 C16.5207227,2.19186523 13.2663418,0 9.5,0 Z" id="Shape" fill="#FF9811"></path>
+            <path d="M9.5,19 C13.2663418,19 16.5207227,16.8081348 18.0573477,13.6304219 L0.942652344,13.6304219 C2.47927734,16.8081348 5.73362109,19 9.5,19 Z" id="Shape" fill="#6DA544"></path>
+            <circle id="Oval" fill="#0052B4" cx="9.5" cy="9.5" r="3.30433008"></circle>
+            <circle id="Oval" fill="#F0F0F0" cx="9.5" cy="9.5" r="2.06521094"></circle>
+            <polygon id="Shape" fill="#0052B4" points="9.5 6.95155078 10.1371309 8.39651563 11.7070059 8.22577539 10.7742246 9.5 11.7070059 10.7742246 10.1371309 10.6034844 9.5 12.0484492 8.86286914 10.6034844 7.29299414 10.7741875 8.22577539 9.5 7.29299414 8.22577539 8.86286914 8.39651563"></polygon>
+        </g>
+    </g>
+</svg>

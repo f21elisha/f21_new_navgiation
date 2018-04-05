@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-882.000000, -22.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(598.000000, 12.000000)">
+                <g id="Icon-Search" transform="translate(284.000000, 10.000000)">
+                    <path d="M8,2 C11.3167702,2 14,4.68322981 14,8 C14,11.3167702 11.3167702,14 8,14 C4.68322981,14 2,11.2795031 2,7.96273292 C2,4.64596273 4.68322981,2 8,2 Z M8,0 C3.60189573,0 0,3.56398104 0,8 C0,12.436019 3.56398104,16 8,16 C12.436019,16 16,12.436019 16,8 C16,3.56398104 12.3981043,0 8,0 Z" id="Shape"></path>
+                    <polygon id="Shape" points="13.1023622 13 12 14.1023622 15.8976378 18 17 16.8976378"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="15px" viewBox="0 0 8 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>right-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Cart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7" transform="translate(-357.000000, -961.000000)" stroke="#4A4A4A" fill="#4A4A4A">
+            <g id="right-arrow" transform="translate(356.500000, 961.000000)">
+                <path d="M2.18297101,13.4214961 C2.09851324,13.5060901 1.99294103,13.5483871 1.87681159,13.5483871 C1.76068216,13.5483871 1.65510995,13.5060901 1.57065217,13.4214961 C1.40173663,13.2523081 1.40173663,12.9773776 1.57065217,12.8081897 L6.95483508,7.41532258 L1.57065217,2.02245551 C1.40173663,1.85326752 1.40173663,1.57833704 1.57065217,1.40914905 C1.73956772,1.23996107 2.01405547,1.23996107 2.18297101,1.40914905 L7.87331334,7.10866935 C8.04222889,7.27785734 8.04222889,7.55278782 7.87331334,7.72197581 L2.18297101,13.4214961 L2.18297101,13.4214961 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

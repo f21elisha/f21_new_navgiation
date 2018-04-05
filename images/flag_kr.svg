@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+    </defs>
+    <g id="Artboard-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="south-korea" transform="translate(4.000000, 5.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="9.5" cy="9.5" r="10.25"></circle>
+            </g>
+            <path d="M12.8043301,9.5 C12.8043301,10.3260918 11.3249277,12.3913027 9.5,12.3913027 C7.67507227,12.3913027 6.19566992,10.3260918 6.19566992,9.5 C6.19566992,7.67503516 7.67507227,6.19566992 9.5,6.19566992 C11.3249277,6.19566992 12.8043301,7.67503516 12.8043301,9.5 Z" id="Shape" fill="#D80027"></path>
+            <path d="M12.8043301,9.5 C12.8043301,11.3249648 11.3249277,12.8043301 9.5,12.8043301 C7.67507227,12.8043301 6.19566992,11.3249648 6.19566992,9.5" id="Shape" fill="#0052B4"></path>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(13.734834, 12.274664) rotate(-45.000000) translate(-13.734834, -12.274664) " x="13.1152804" y="11.8616221" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(12.274316, 13.735080) rotate(-45.000000) translate(-12.274316, -13.735080) " x="11.6547625" y="13.3220376" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(15.487448, 14.026682) rotate(-45.000000) translate(-15.487448, -14.026682) " x="14.8678943" y="13.6136403" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(14.026947, 15.487352) rotate(-45.000000) translate(-14.026947, -15.487352) " x="13.407393" y="15.07431" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(14.611093, 13.150741) rotate(-45.000000) translate(-14.611093, -13.150741) " x="13.9915392" y="12.7376989" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(13.150986, 14.611157) rotate(-45.000000) translate(-13.150986, -14.611157) " x="12.5314324" y="14.1981152" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(13.881388, 5.118789) rotate(-135.000000) translate(-13.881388, -5.118789) " x="12.2292388" y="4.70574706" width="3.30429839" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(12.274968, 5.265182) rotate(-135.000000) translate(-12.274968, -5.265182) " x="11.6554141" y="4.8521585" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(13.735096, 6.725375) rotate(-135.000000) translate(-13.735096, -6.725375) " x="13.1155426" y="6.31235175" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(14.026595, 3.512766) rotate(-135.000000) translate(-14.026595, -3.512766) " x="13.4070413" y="3.09972403" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(15.487516, 4.973127) rotate(-135.000000) translate(-15.487516, -4.973127) " x="14.8679627" y="4.56008458" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(4.242840, 14.757260) rotate(45.000000) translate(-4.242840, -14.757260) " x="2.59069104" y="14.3442183" width="3.30429839" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(5.849021, 14.610929) rotate(45.000000) translate(-5.849021, -14.610929) " x="5.2294676" y="14.197906" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(4.388761, 13.150790) rotate(45.000000) translate(-4.388761, -13.150790) " x="3.76920747" y="12.7377485" width="1.23910726" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(5.995151, 13.004717) rotate(45.000000) translate(-5.995151, -13.004717) " x="4.34300217" y="12.5916748" width="3.30429839" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(4.242789, 4.242752) rotate(135.000000) translate(-4.242789, -4.242752) " x="2.5906396" y="3.82971002" width="3.30429839" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(5.118690, 5.118725) rotate(135.000000) translate(-5.118690, -5.118725) " x="3.46654072" y="4.70568344" width="3.30429839" height="1"></rect>
+            <rect id="Rectangle-path" fill="#000000" transform="translate(5.995425, 5.995319) rotate(135.000000) translate(-5.995425, -5.995319) " x="4.34327541" y="5.58229527" width="3.30429839" height="1"></rect>
+        </g>
+    </g>
+</svg>

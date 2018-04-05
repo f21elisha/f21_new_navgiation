@@ -1501,7 +1501,7 @@ footer.main_fixed {
   float:left;
   text-decoration: none;
   background: #eee;
-  border-bottom: 1px solid #fff;
+  border-bottom: 2px solid #fff;
   margin-bottom: 0;
 }
 /*.mega_menu.active > span, .second_menu.active > span, */.go_back  {

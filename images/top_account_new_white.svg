@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Before-Sign-In" transform="translate(3.000000, 3.000000)">
+            <ellipse id="Oval-2" fill="#FFFFFF" cx="11" cy="7.98487713" rx="4" ry="3.99243856"></ellipse>
+            <path d="M17.9941283,18.484765 C17.9941283,18.484765 18.4638832,22.2911153 11,22.2911153 C3.53611682,22.2911153 4.00587171,18.484765 4.00587171,18.484765 C4.00587171,15.6426901 7.13757094,13.3081285 11,13.3081285 C14.8624291,13.3081285 17.9941283,15.6426901 17.9941283,18.484765 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.5" cx="11" cy="11.3119093" rx="11" ry="10.979206"></ellipse>
+        </g>
+    </g>
+</svg>

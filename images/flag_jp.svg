@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard 3</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
-    </defs>
+    <defs></defs>
     <g id="Artboard-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="japan" transform="translate(4.000000, 5.000000)" fill-rule="nonzero">
-            <g id="Oval">
-                <use fill="#F0F0F0" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <circle stroke="#FFFFFF" stroke-width="1.5" cx="9.5" cy="9.5" r="10.25"></circle>
-            </g>
-            <circle id="Oval" fill="#D80027" cx="9.5" cy="9.5" r="4.13042187"></circle>
+        <g id="japan" transform="translate(3.000000, 3.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#F0F0F0" cx="11.5" cy="11.5" r="11.5"></circle>
+            <circle id="Oval" fill="#D80027" cx="11.5" cy="11.5" r="4.99998437"></circle>
         </g>
     </g>
 </svg>

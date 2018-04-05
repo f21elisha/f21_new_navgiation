@@ -3964,7 +3964,7 @@ iframe.no_line, .g-recaptcha iframe {
     height: 27px !important;
   }
   /* New Navigation 03/26/2018 */
-  .l_container > .container {
+  .l_container{
     top: 50px;
   }
   .d_new_header > div:first-child {

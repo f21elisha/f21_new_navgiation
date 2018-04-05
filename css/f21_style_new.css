@@ -889,6 +889,12 @@ div[class^="hp_"] {
   overflow: hidden;
   width: 100%;
 }
+.last_dot {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 60%;
+}
 /* Background Code*/
 .bg_black {
   background: #111;
@@ -3612,6 +3618,9 @@ iframe.no_line, .g-recaptcha iframe {
 /* iPhone 5 Code                  */
 /*================================*/
 @media (max-device-width:320px) {
+  .col_ss_10_of_10 {
+    width: 100%;
+  }
   .l_container,.go_back {
     width: 266px;
   }
@@ -4995,7 +5004,7 @@ iframe.no_line, .g-recaptcha iframe {
   .new_hover:before {
     content: '';
     position: absolute;
-    right: 30px;
+    right: 24px;
     top: -8px;
     width: 0;
     height: 0;

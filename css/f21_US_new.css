@@ -677,11 +677,11 @@ span[class^="c_card_"].small {
 .go_back > h3:before {
   position: absolute;
   content:"" !important;
-  width: 11px;
-  height: 15px;
+  width: 15px;
+  height: 20px;
   background: url("https://www.forever21.com/images/f21/us/icon_back_white.svg") no-repeat center left;
-  left: 15px;
-  top: 16px;
+  left: 20px;
+  top: 15px;
   background-size: contain;
 }
 
